@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 
-<img src="http://recordit.co/DTJ9IEO5rO" width=250><br>
+<img src="http://g.recordit.co/DTJ9IEO5rO.gif" width=250><br>
 
 ### Notes
 The alamo fire at first would not load libraries. I fixed the issue by restarting the project on my wifes mac. 
