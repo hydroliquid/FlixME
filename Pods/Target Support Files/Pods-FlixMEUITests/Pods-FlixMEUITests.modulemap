@@ -1,0 +1,6 @@
+framework module Pods_FlixMEUITests {
+  umbrella header "Pods-FlixMEUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
